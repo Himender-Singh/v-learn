@@ -10,7 +10,7 @@ const Blogs = () => {
   const [selectedArticle, setSelectedArticle] = useState(null);
   const observer = useRef();
 
-  const apiKey = 'e0da94dbf7484f62b3984c5cf79dcabf'; // Replace with your News API key
+  const apiKey = ''; 
 
   useEffect(() => {
     const fetchArticles = async () => {
