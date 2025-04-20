@@ -65,5 +65,7 @@ This platform enables real-time booking, secure payments, personalized trainer d
 
 ---
 
-## 🗂️ Folder Structure
+## Demo id :- use username and password as listed below :-
+   **username** => **john@gmail.com**
+   **password** => **1234**
 
